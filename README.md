@@ -43,6 +43,6 @@ The project consists of multiple Java files implementing different classes and i
 (A class diagram is provided in the submission PDF, generated via IntelliJ Professional Edition.)
 
 ## GitHub Repository
-[GitHub Repo Link](YOUR_GITHUB_REPO_LINK_HERE)
+[GitHub Repo Link](https://github.com/shwetgaur/Duck.git)
 
 
